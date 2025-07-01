@@ -1,0 +1,2 @@
+EMPTY_TOKEN = ''
+EMPTY_BODY = {}
